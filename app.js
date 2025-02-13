@@ -1,4 +1,4 @@
-let anniversary = "2019-08-25";
+let anniversary = "2003-10-01";
 let date = new Date(anniversary);
 let dateVal = date.getTime();
 let today = new Date();
